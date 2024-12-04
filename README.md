@@ -9,3 +9,4 @@ Este repositorio incluye las soluciones a los retos planteados por [@midudev](ht
 |  #  | Reto                           | Difficulty[^1] | Solución                     |
 | :-: | :----------------------------: | :------------: | :--------------------------: |
 | 01  | 🎁 ¡Primer regalo repetido!    | 🟢            | [Ver](./2024/challenge-01)   |
+| 02  | 🖼️ Enmarcando nombres          | 🟢            | [Ver](./2024/challenge-02)   |
